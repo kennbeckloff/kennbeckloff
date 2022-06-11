@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=kennbeckloff)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning At Moringa School
 - 👯 I’m looking to collaborate on any project
